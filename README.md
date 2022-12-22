@@ -1,6 +1,6 @@
 ### Hi I'm Uncle Bunny 👋
 
-:smiley ``` I'm a full stack developer and a father of two kids.
+:smiley: ` ` I'm a full stack developer and a father of two kids.
 
 <!--
 **huibunny/huibunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
